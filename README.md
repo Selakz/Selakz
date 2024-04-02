@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Here is Senolytics/Selakz, a student majoring in Software Engineering at HIT.
+
+For now, I'm just working on my first unity project, Project DL.<br/>
+Currently I'm very skilless. It would be quite an honor if you spare your time to have a glimpse on my projects and give some guides.
+
+That's it.
+
 <!--
 **Selakz/Selakz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
