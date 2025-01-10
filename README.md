@@ -1,23 +1,13 @@
 ### Hi there 👋
 
-Here is Senolytics/Selakz, a student majoring in Software Engineering.
+[![Selakz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Selakz&show_icons=true&hide_border=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-For now, I'm just working on my first unity project, Project DL.<br/>
-Currently I'm very skilless. It would be quite an honor if you spare your time to have a glimpse on my projects and give some guides.
+This is Senolytics/Selakz, a student majoring in Software Engineering.
+
+Senolytics is a type of drugs that target and eliminate senescent cells. I chose this name for my online presence to symbolize my desire to discard old prejudices and constraints, continually embrace new things, and maintain curiosity and vitality.
+
+My greatest wish is to always pursue what truly interests me. I love exploring various frameworks and creating indie games, and I wish my voice can be heard by the world.
+
+However, my current knowledge is still too shallow to offer critical opinions on many things, and my contributions are quite minimal. I hope to have many experiences worth sharing in the future to fill this profile, and I will strive for this.
 
 That's it.
-
-<!--
-**Selakz/Selakz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
