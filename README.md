@@ -11,3 +11,5 @@ My greatest wish is to always pursue what truly interests me. I love exploring v
 However, my current knowledge is still too shallow to offer critical opinions on many things, and my contributions are quite minimal. I hope to have many experiences worth sharing in the future to fill this profile, and I will strive for this.
 
 That's it.
+
+Contact me at: senolytics@foxmail.com
