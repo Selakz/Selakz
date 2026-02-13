@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Selakz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Selakz&show_icons=true&hide_border=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](./profile/stats.svg)
 
 This is Senolytics/Selakz, a student majoring in Software Engineering.
 
@@ -12,4 +12,4 @@ However, my current knowledge is still too shallow to offer critical opinions on
 
 That's it.
 
-Contact me at: senolytics@foxmail.com
+Contact me at: <senolytics@foxmail.com>
